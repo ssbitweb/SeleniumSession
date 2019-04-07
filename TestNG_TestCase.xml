@@ -1,0 +1,11 @@
+<suite name = "testSuite">
+	<test name="ExpediaSearchPage" preserve-order ="true">
+		<classes>
+			<class name="TestNG.TestNG_TestCase">
+				<methods>
+					<include name= "TestNGMethod" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

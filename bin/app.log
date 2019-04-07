@@ -1,0 +1,11 @@
+21:48:53.869 DEBUG LoggingDemoinTestNG -Debug message Loggged
+21:48:53.900 ERROR LoggingDemoinTestNG -error message Loggged
+21:48:53.901 FATAL LoggingDemoinTestNG -fatal message Loggged
+21:48:53.901 INFO  LoggingDemoinTestNG -info message Loggged
+21:49:45.632 DEBUG TestNG.LoggingDemoinTestNG -Debug message Loggged
+21:49:45.664 ERROR TestNG.LoggingDemoinTestNG -error message Loggged
+21:49:45.665 FATAL TestNG.LoggingDemoinTestNG -fatal message Loggged
+21:49:45.665 INFO  TestNG.LoggingDemoinTestNG -info message Loggged
+21:50:20.820 ERROR Log4J.LoggingFile -error message Loggged
+21:50:20.851 FATAL Log4J.LoggingFile -fatal message Loggged
+21:50:20.852 INFO  Log4J.LoggingFile -info message Loggged

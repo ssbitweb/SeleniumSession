@@ -1,0 +1,12 @@
+<suite name ="testng_annotation_suite">
+	<test name="annotation_practice" preserve-order = "true">
+		<classes>
+			<class name="TestNG.TestNG_Annotation">
+				<methods>
+					<include name ="method1" />
+					<include name ="method2" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
